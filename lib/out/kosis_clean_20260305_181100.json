@@ -1,0 +1,86 @@
+[ {
+  "date" : "2024",
+  "region" : "서울",
+  "crime" : 321091,
+  "population" : 9331828
+}, {
+  "date" : "2024",
+  "region" : "부산",
+  "crime" : 125552,
+  "population" : 3266598
+}, {
+  "date" : "2024",
+  "region" : "대구",
+  "crime" : 75261,
+  "population" : 2363629
+}, {
+  "date" : "2024",
+  "region" : "인천",
+  "crime" : 100297,
+  "population" : 3021010
+}, {
+  "date" : "2024",
+  "region" : "광주",
+  "crime" : 49991,
+  "population" : 1408422
+}, {
+  "date" : "2024",
+  "region" : "대전",
+  "crime" : 48873,
+  "population" : 1439157
+}, {
+  "date" : "2024",
+  "region" : "울산",
+  "crime" : 19051,
+  "population" : 1098049
+}, {
+  "date" : "2024",
+  "region" : "경기",
+  "crime" : 443767,
+  "population" : 13694685
+}, {
+  "date" : "2024",
+  "region" : "강원",
+  "crime" : 49909,
+  "population" : 1517766
+}, {
+  "date" : "2024",
+  "region" : "충북",
+  "crime" : 49989,
+  "population" : 1591177
+}, {
+  "date" : "2024",
+  "region" : "충남",
+  "crime" : 76222,
+  "population" : 2136574
+}, {
+  "date" : "2024",
+  "region" : "전북",
+  "crime" : 57263,
+  "population" : 1738690
+}, {
+  "date" : "2024",
+  "region" : "전남",
+  "crime" : 67815,
+  "population" : 1788819
+}, {
+  "date" : "2024",
+  "region" : "경북",
+  "crime" : 84492,
+  "population" : 2531384
+}, {
+  "date" : "2024",
+  "region" : "경남",
+  "crime" : 120687,
+  "population" : 3228380
+}, {
+  "date" : "2024",
+  "region" : "제주",
+  "crime" : 30627,
+  "population" : 670368
+}, {
+  "date" : "2024",
+  "region" : "세종",
+  "crime" : 9088,
+  "population" : 390685
+} ]
